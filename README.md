@@ -2,6 +2,9 @@
 
 ![](imgs/modify.png)
 
+## Experiments
+
+![](imgs/results.png)
 ------------------------------------------
 # SimpleNet
 
